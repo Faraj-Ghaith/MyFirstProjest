@@ -218,4 +218,63 @@ input
 	color: white;
 	padding: 20px;
 }
-	
+
+.book_img
+{
+	height: 570px;
+	margin-top: -20px;
+	background-image: url("https://www.wrike.com/blog/content/uploads/2014/07/iStock-587536358-777x518.jpg");
+}
+
+.box3
+{
+	height: 260px;
+	width: 1130px;
+	background-color: black;
+	margin: 0px auto;
+	opacity: .9;
+	color: white;
+	padding: 10px;
+}
+
+.img-with-text {
+    text-align: justify;
+    width: 150;
+    height: 300;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
+._books-tags-based-recommendations_style_recommendationImage__1I0RZ
+{
+	-webkit-text-size-adjust: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    list-style: decimal;
+    word-wrap: break-word;
+    text-align: left;
+    list-style-type: none;
+    white-space: normal;
+    letter-spacing: normal;
+    color: #007185;
+    box-sizing: border-box;
+    position: relative;
+    width: 120px;
+    height: 160px;
+    display: flex;
+    
+}
+
+.row {
+	display: flex;
+}
+  
+.column
+ {
+	flex: 33.33%;
+	padding: 20px;
+}
